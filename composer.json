@@ -1,0 +1,7 @@
+{
+  "require": {
+    "docusign/esign-client": "^6.16",
+    "guzzlehttp/guzzle": "^7.8",
+    "ext-json": "*"
+  }
+}
